@@ -25,7 +25,7 @@ void Solution3::SortWords() {
 	}
 
 	std::string tmp1, tmp2;
-	std::vector<std::string> result;
+	std::vector<std::string> result = std::vector<std::string>();
 
 	for (int i = 0; i < words.size(); i++) {
 		if (i + 1 < words.size()) {
