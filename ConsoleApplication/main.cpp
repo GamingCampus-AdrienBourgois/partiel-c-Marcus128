@@ -24,6 +24,12 @@ int main(int argc, char** argv)
 	ExerciceBase::AutograderRunTest(1, 2);
 	ExerciceBase::AutograderRunTest(1, 3);
 	ExerciceBase::AutograderRunTest(1, 4);
+	
+	//ExerciceBase::AutograderRunTest(3, 1);
+	ExerciceBase::AutograderRunTest(3, 2);
+	//ExerciceBase::AutograderRunTest(3, 3);
+	//ExerciceBase::AutograderRunTest(3, 4);
+
 
 	return 0;
 
